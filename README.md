@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dwaraka, a Telugu Web Developer 
 
 
-<img align="right" width="200" height="250" src="https://github.com/DwarakanathAkkala/DwarakanathAkkala/blob/main/Dwaraka_Octocat.png" alt="My Octocat I've created"></a>
+<img align="right" width="225" height="225" src="https://github.com/DwarakanathAkkala/DwarakanathAkkala/blob/main/Dwaraka_Octocat.png" alt="My Octocat I've created"></a>
 
 🔭 I’m currently working on [Website](https://harithanaturals.com) <br>
 🌱 I’m currently learning MERN Stack <br>
